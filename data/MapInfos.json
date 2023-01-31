@@ -12,8 +12,8 @@ null,
 {"id":10,"expanded":false,"name":"第六章","order":12,"parentId":3,"scrollX":535,"scrollY":499.5},
 {"id":11,"expanded":false,"name":"第七章","order":13,"parentId":3,"scrollX":535,"scrollY":499.5},
 {"id":12,"expanded":false,"name":"第八章","order":14,"parentId":3,"scrollX":535,"scrollY":499.5},
-{"id":13,"expanded":false,"name":"手機","order":3,"parentId":16,"scrollX":535,"scrollY":503.5},
+{"id":13,"expanded":false,"name":"手機","order":3,"parentId":16,"scrollX":535,"scrollY":456.5},
 null,
 null,
-{"id":16,"expanded":true,"name":"怪談首頁","order":1,"parentId":0,"scrollX":535,"scrollY":503.5}
+{"id":16,"expanded":true,"name":"怪談首頁","order":1,"parentId":0,"scrollX":535,"scrollY":456.5}
 ]
