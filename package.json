@@ -1,0 +1,13 @@
+{
+    "name": "怪談",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "stretchmode": false,
+        "width": 720,
+        "height": 960,
+        "icon": "icon/icon.png"
+    }
+}
