@@ -15,5 +15,5 @@ null,
 {"id":13,"expanded":false,"name":"手機","order":3,"parentId":16,"scrollX":560.5,"scrollY":501.5},
 {"id":14,"expanded":false,"name":"死亡映相館","order":5,"parentId":16,"scrollX":560.5,"scrollY":456.5},
 null,
-{"id":16,"expanded":true,"name":"怪談首頁","order":1,"parentId":0,"scrollX":560.5,"scrollY":456.5}
+{"id":16,"expanded":true,"name":"怪談首頁","order":1,"parentId":0,"scrollX":368,"scrollY":456.5}
 ]
