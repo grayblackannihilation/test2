@@ -33,7 +33,7 @@ Window_Base._faceWidth  = 144;
 Window_Base._faceHeight = 144;
 
 Window_Base.prototype.lineHeight = function() {
-    return 36;
+    return 32;//對話文字起始高度
 };
 
 Window_Base.prototype.standardFontFace = function() {
@@ -420,7 +420,7 @@ Window_Base.prototype.calcTextHeight = function(textState, all) {
                 break;
             }
         }
-        textHeight += maxFontSize + 8;
+        textHeight += maxFontSize + 15;//行距
     }
 
     this.contents.fontSize = lastFontSize;
