@@ -33,7 +33,7 @@ Window_Base._faceWidth  = 144;
 Window_Base._faceHeight = 144;
 
 Window_Base.prototype.lineHeight = function() {
-    return 32;//對話文字起始高度
+    return 35;//對話框總高度
 };
 
 Window_Base.prototype.standardFontFace = function() {
@@ -51,7 +51,7 @@ Window_Base.prototype.standardFontSize = function() {
 };
 
 Window_Base.prototype.standardPadding = function() {
-    return 18;
+    return 20;//對話文字起始高度
 };
 
 Window_Base.prototype.textPadding = function() {
