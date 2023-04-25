@@ -53,3 +53,4 @@ Window_Base.prototype.processNormalCharacter = function(textState) {
         this._zancun_wenzi.push(c)
         return
 };
+
